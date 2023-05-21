@@ -2,8 +2,6 @@
 #define BUFFER_SIZE 20
 /* USER CODE END PM */
 
-/* Private variables ---------------------------------------------------------*/
-I2C_HandleTypeDef hi2c1;
 /* USER CODE BEGIN PV */
 uint32_t tick;
 uint8_t transferring;
